@@ -35,3 +35,23 @@ This includes Chrome, Firefox, Safari, Opera and Edge. For older browsers and pl
 ## License?
 
 The ```codebase``` is licensed under the terms of the [Apache 2.0](https://github.com/AFPDB/AFPDB/blob/master/LICENSE). Contributors must accept our [contribution terms](https://github.com/AFPDB/AFPDB/blob/master/CONTRIBUTING.md).
+
+Have you any query/issues? — Please log here - https://github.com/AFPDB/AFPDB/issues.
+
+<b>Many Thanks</b>.
+
+<!--/Definitions/-->
+[license-badge]: https://img.shields.io/badge/license-Apache-blue.svg?
+[license-status]: https://github.com/AFPDB/AFPDB/blob/master/LICENSE.pdf
+
+[build-badge]: https://img.shields.io/badge/build-passing-brightgreen.svg?
+[build-status]: https://travis-ci.org/AFPDB/AFPDB
+
+[coverage-badge]: https://img.shields.io/badge/coverage-100%25-brightgreen.svg
+[coverage-status]: https://codecov.io/gh/AFPDB/AFPDB
+
+[author-badge]: https://img.shields.io/badge/author-iamprabhat-orange.svg?
+[author-url]: https://github.com/iamprabhat
+
+[chat-badge]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=plastic
+[chat-url]: https://gitter.im/AFPDB
