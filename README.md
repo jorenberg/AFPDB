@@ -17,3 +17,7 @@ AFPDB<sup>®</sup>, is a dedicated computational biology database for Antifreeze
 Source files for the <b>"AFPDB<sup>®</sup>"</b> data product — features includes filtering, ordering, instant search, URL access/update, file size optimization and Data API usage for listed — proteins.
 
 <b>Note:</b> Proteins data stored in JSON for easy modifications.
+
+## What is used?
+
+AXIX® (SASS), jQuery, AMD, Font Awesome, Bower, Grunt with html/css/js/json/svg/image — minify + uglify.
